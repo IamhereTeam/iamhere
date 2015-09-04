@@ -9,6 +9,7 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "business_logic", "business_
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		business_logic\business_logic.projitems*{a77e7d5b-0579-4399-9170-a0313453be28}*SharedItemsImports = 4
 		business_logic\business_logic.projitems*{90e98a8e-fdb2-40a6-bfd8-439da904dcbe}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
